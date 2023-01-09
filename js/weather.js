@@ -1,7 +1,4 @@
-import dotenv from "dotenv";
-dotenv.config();
-
-const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
+const API_KEY = config.apikey;
 
 function onGeoOk(position) {
   const lat = position.coords.latitude;
