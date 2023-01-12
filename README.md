@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### View site: https://pourquoi21.github.io/momentum/
+### [View site](https://pourquoi21.github.io/momentum/)
 
 ### Introduction
 A momentum clone app which has a clock and a to-do app and random quotes and background images made using JS.
